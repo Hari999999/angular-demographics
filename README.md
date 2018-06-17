@@ -1,6 +1,8 @@
 # Angular-Realtime-Data-Visualization
 Realtime data visualisation using Pusher and Angular
 
+[View tutorial](https://pusher.com/tutorials/data-visualization-angular)
+
 ## Prerequisites
 - [Angular](https://angular.io)
 - [Express](https://expressjs.com/)
